@@ -363,8 +363,8 @@ html { height: 100%;}
     color: #fff;
     text-decoration: none;
     font-family: 'Encode Sans Condensed', sans-serif;
-    font-size: 80px;
-    padding-top: 100px;
+    font-size: 88px;
+    padding-top: 125px;
     padding-bottom: 250px;
 }
 
@@ -375,7 +375,7 @@ html { height: 100%;}
 
    /*bouncing arrow*/
 .arrow {
-  width: 5em;
+  width: 3em;
 }
 
 .scroll-container {
@@ -556,7 +556,7 @@ section .title span a::after {
 
 /*info and about */
 #about{
-  margin-top: 8em;
+  padding-top: 1em;
 
 }
 
